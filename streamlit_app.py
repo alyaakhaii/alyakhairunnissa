@@ -5,4 +5,4 @@ st.title("🎈 hai aku alya
 st.write(
     "L"
 )
-st.image("
+st.image("webcam-toy-photo7_(2).jpg")
