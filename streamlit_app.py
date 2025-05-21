@@ -4,4 +4,4 @@ st.title("🎈 hai aku alya! ")
 st.write(
     "Love"
 )
-st.image("webcam-toy-photo7_(2).jpg")
+st.image("IMG-20250518-WA0014.jpg")
